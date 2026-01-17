@@ -1,61 +1,77 @@
 # 💫 About Me:
-I👋 Hi, I’m Sanidhya Jain
+# 👋 Hi, I’m Sanidhya Jain
 
-💻 Senior Java Spring Boot Developer | Backend Engineer
-🚀 Building scalable, high-performance backend systems
+💻 **Senior Java Spring Boot Developer | Backend Engineer**  
+🚀 Building scalable, high-performance backend systems  
 🇮🇳 India
 
-🧑‍💻 About Me
+---
 
-I’m a Java Spring Boot Developer with 4+ years of experience in backend development, specializing in designing and building robust, scalable, and production-ready systems.
+## 🧑‍💻 About Me
 
-I’ve worked extensively with modern Java versions and enterprise backend technologies, and I enjoy solving complex engineering problems with clean architecture and thoughtful system design.
+I’m a **Java Spring Boot Developer with 4+ years of experience** in backend development, specializing in designing and building **robust, scalable, and production-ready systems**.
 
-I’m also open to contributing to impactful projects, especially those involving software architecture, system design, and cutting-edge technologies like GenAI and Machine Learning.
+I’ve worked extensively with modern Java versions and enterprise backend technologies, and I enjoy solving complex engineering problems with **clean architecture and thoughtful system design**.
 
-🛠️ Tech Stack
+I’m also **open to contributing to impactful projects**, especially those involving **software architecture, system design, and cutting-edge technologies like GenAI and Machine Learning**.
 
-Languages: Java 8, Java 11, Java 21
+---
 
-Backend: Spring, Spring Boot, Spring MVC, Spring Data JPA
+## 🛠️ Tech Stack
 
-ORM: Hibernate, JPA
+**Languages**  
+- Java 8, Java 11, Java 21  
 
-Architecture: Microservices, REST APIs
+**Backend**  
+- Spring, Spring Boot, Spring MVC, Spring Data JPA  
 
-Databases: MySQL
+**ORM**  
+- Hibernate, JPA  
 
-Message Brokers: RabbitMQ, Apache Kafka
+**Architecture**  
+- Microservices, REST APIs  
 
-Concepts: OOPs, Multithreading, System Design, Scalability
+**Databases**  
+- MySQL  
 
-Tools: Git, GitHub, Maven, Postman
+**Message Brokers**  
+- RabbitMQ, Apache Kafka  
 
-📌 What You’ll Find Here
+**Concepts**  
+- OOPs, Multithreading, System Design, Scalability  
 
-✅ Production-grade Spring Boot & Microservices projects
+**Tools**  
+- Git, GitHub, Maven, Postman  
 
-✅ System Design focused implementations
+---
 
-✅ Backend best practices & clean architecture
+## 📌 What You’ll Find Here
 
-✅ Interview-ready Java & DSA solutions
+- ✅ Production-grade **Spring Boot & Microservices** projects  
+- ✅ **System Design** focused implementations  
+- ✅ Backend best practices & clean architecture  
+- ✅ Interview-ready **Java & DSA** solutions  
 
-📈 Currently Exploring
+---
 
-🔸 Advanced system design & distributed systems
+## 📈 Currently Exploring
 
-🔸 Event-driven architecture with Kafka & RabbitMQ
+- 🔸 Advanced system design & distributed systems  
+- 🔸 Event-driven architecture with **Kafka & RabbitMQ**  
+- 🔸 **GenAI & Machine Learning** integration in backend systems  
 
-🔸 GenAI & Machine Learning integration in backend systems
+---
 
-🤝 Let’s Collaborate
+## 🤝 Let’s Collaborate
 
-💼 Open to Senior Java Developer / Backend Engineer roles
+- 💼 Open to **Senior Java Developer / Backend Engineer** roles  
+- 🤝 Open to **open-source contributions & architecture-focused projects**  
+- 📫 Connect with me via **GitHub or LinkedIn**
 
-🤝 Open to open-source contributions & architecture-focused projects
+---
 
-📫 Connect with me via GitHub or LinkedIn
+⭐ *If you find my work useful, consider starring the repositories!*
+
 
 
 ## 🌐 Socials:
